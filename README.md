@@ -33,3 +33,9 @@ A detailed description of the methods is available in the manuscript.
 ---
 
 ## 📂 Repository structure
+Enterobacter_prophages/
+├── data/
+│ ├── prophages.fna
+│ ├── prophages_metadata.tsv
+├── README.md
+└── LICENSE
