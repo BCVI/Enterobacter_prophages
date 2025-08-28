@@ -14,7 +14,7 @@ The dataset includes:
 
 - **`data/prophages.fna`** → FASTA file containing all prophage nucleotide sequences.  
 - **`data/prophages_metadata.tsv`** → Metadata table with prophage ID, host species, isolation source, geographic origin, and NCBI accession of the host genome.  
-- **`scripts/`** → Example scripts and pipelines used for prophage identification, phylogenetic reconstruction, clustering, and cophylogenetic analyses (Roary, VirSorter2, CheckV, vClust, IQ-TREE, PACo, ParaFit, etc.).  
+
 
 ---
 
